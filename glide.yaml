@@ -1,0 +1,6 @@
+package: cdk-origin
+package: github.com/hferentschik/cdk-origin
+homepage: https://hferentschik/cdk-origin
+license: Apache-2.0
+import:
+- package: github.com/spf13/cobra
